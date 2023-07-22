@@ -1,0 +1,21 @@
+.container{
+    border-radius:  7px ;
+    color: "#FFFFFF";
+    margin: auto;
+    height: 40% ;
+    width: 40%;
+    font-size: small;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.myImage{
+    width: 20%;
+    height: 20%
+}
+
+
+.container:hover{
+    background-color: pink;
+    height: 50% ;
+}
+
